@@ -1,2 +1,3 @@
 #!/bin/bash
-mkdir $PATH/action
+alias d=$PATH
+mkdir /d/action
